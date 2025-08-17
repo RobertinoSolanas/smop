@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:com.smop.routingservice.RoutingserviceApplicationTests]/[method:contextLoads()]
